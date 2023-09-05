@@ -1,4 +1,4 @@
-[![Discord]([[[https://cdn.discordapp.com/attachments/1147267945748238423/1148611561498349628/da61r89-10eafa98-1292-47fe-86f4-0690a95fc681.gif))))](https://discord.gg/who)
+[![Discord : Oud#0001](https://cdn.discordapp.com/attachments/1147267945748238423/1148611561498349628/da61r89-10eafa98-1292-47fe-86f4-0690a95fc681.gif)](https://discord.gg/who)
 <h1 align="center">Discord : Oud#0001</h1>
 <h3 align="center">My STORE : https://discord.gg/who</h3>
 
