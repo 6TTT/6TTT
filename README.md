@@ -1,4 +1,4 @@
-[![Discord](https://cdn.discordapp.com/attachments/1147267945748238423/1148611561498349628/da61r89-10eafa98-1292-47fe-86f4-0690a95fc681.gif)](https://discord.gg/who)
+[![Discord](https://d3n32ilufxuvd1.cloudfront.net/55c4887f2541c97e1b608fee/1428831/upload-2538db70-c650-4bc6-a7ca-5c81cc7d9451.gif)](https://discord.gg/who)
 <h1 align="center">Discord : Oud#0001</h1>
 <h3 align="center">My STORE : https://discord.gg/who</h3>
 
