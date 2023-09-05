@@ -1,4 +1,4 @@
-[![Discord](https://phoneky.co.uk/thumbs/screensavers/down/technology/boostersan_zEMItoSB.gif)](https://discord.gg/who)
+[![Discord](https://cdn.discordapp.com/attachments/1147267945748238423/1148611561498349628/da61r89-10eafa98-1292-47fe-86f4-0690a95fc681.gif)](https://discord.gg/who)
 <h1 align="center">Discord : Oud#0001</h1>
 <h3 align="center">My STORE : https://discord.gg/who</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
