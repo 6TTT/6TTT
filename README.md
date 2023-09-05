@@ -1,7 +1,7 @@
 [![Discord](https://tenor.com/view/hacking-hacker-hackers-hack-1337-gif-19981091)](https://discord.gg/who)
 <h1 align="center">Discord : Oud#0001</h1>
 <h3 align="center">My STORE : https://discord.gg/who</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1147267945748238423/1148611561498349628/da61r89-10eafa98-1292-47fe-86f4-0690a95fc681.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacking-hacker-hackers-hack-1337-gif-19981091">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
