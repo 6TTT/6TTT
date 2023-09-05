@@ -41,23 +41,35 @@
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
  </h4>
  
-<code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/c-plus-plus.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/python-512.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/java-512.png" width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
-<code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
-<code><img src="Images/readme icon/gradient/arduino-512.png" width="35"/></code>
-<code><img src="Images/readme icon/non gradient/kali.jpeg" width="30"/></code>
-<code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
-<code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
+<<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/></code>-->
+<!--<code><img src="imgs/c.png" width="30"/></code>-->
+<!--<code><img src="imgs/jquery.png" width="30"/></code>-->
+<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="30" height="30" alt="Angular" /></code>--> 
+<!--<code><img src="imgs/django.png" width="30"/></code>-->
+<!--<code><img src="imgs/flask.png" width="30"/></code>-->
+<!--<code><img src="imgs/perl.png" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/></code>-->
+<!--<code><img src="imgs/asm.png" width="30"/></code>-->
+<!--<code><img src="imgs/github.png" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></code>-->
+<!--<code><img src="imgs/blogger.png" width="30"/></code>-->
+<!--<code><img src="imgs/wix.png" width="30"/></code>-->
+<!--<code><img src="imgs/wordpress.png" width="30"/></code>-->
+<!--<code><img src="imgs/andriod_studio.png" width="30"/></code>-->
+<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/></code>-->
+<!--<code><img src="imgs/rasberry_pi.png" width="30"/></code>-->
+<!--<code><img src="imgs/power_shell.png" width="30"/></code>-->
+<!--<code><img src="imgs/bash.png" width="30"/></code>-->
+<!--<code><img src="imgs/terminal.png" width="30"/></code>-->
+<!--<code><img src="imgs/android_os.png" width="30"/></code>-->
+<!--<code><img src="imgs/tails.png" width="30" height=" "/></code>-->
+<code><img src="imgs/windows_os.png" width="30"/></code>-->
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="30" height="30" alt="Oracle" /></code>-->
+<!---->
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" /></code>-->
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="30" height="30" alt="XD" /></code>-->
+<code><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png" alt="marksdown" height="30" width="30" border="0"></code>-->
 
 
 <!-- ##### WILL WORK ON THIS LATER ##### -->
