@@ -1,7 +1,7 @@
 [![Discord](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://discord.gg/who)
 <h1 align="center">Discord : Oud#0001</h1>
 <h3 align="center">My STORE : https://discord.gg/who</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacking-hacker-hackers-hack-1337-gif-19981091">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
