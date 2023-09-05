@@ -1,8 +1,8 @@
 
-<h1 align="center">Discord : Oud#0001</h1>
+<h1 align="center">Oud .</h1>
 <h3 align="center">My STORE : https://discord.gg/who</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">                                Discord : Oud#0001                                    </h3>
 <p align="left">
 </p>
 
