@@ -1,4 +1,4 @@
-[![Discord](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://discord.gg/who)
+[![Discord]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fjunguler%2Fart%2FDedsec-2-0-generic-hacker-614821401&psig=AOvVaw1WiHLdP7q9vKjuicm-c6nh&ust=1694006959636000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjSyerJk4EDFQAAAAAdAAAAABAF))](https://discord.gg/who)
 <h1 align="center">Discord : Oud#0001</h1>
 <h3 align="center">My STORE : https://discord.gg/who</h3>
 
